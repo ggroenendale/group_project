@@ -6,6 +6,7 @@ How much does Geoff Like Sandwhiches depending on time of year????
 
 # group_project
 This is my group project I can edit this text later.
+Heather wuz here.
 
 
 ### Terra's Contribution:
